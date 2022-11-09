@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/free5gc/TimeDecode"
-	"github.com/free5gc/openapi/models"
+	"github.com/nycu-ucr/TimeDecode"
+	"github.com/nycu-ucr/openapi/models"
 )
 
 func TestDecode(t *testing.T) {
